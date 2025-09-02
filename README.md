@@ -1,1 +1,2 @@
-this was my attempt to replace the discusting samsung calender. downloac here:  https://median.co/share/mbxeerx#apk
+this was my attempt to replace the samsung calender. download the apk here:  https://median.co/share/mbxeerx#apk  |   
+hold the date number to open hourly scedule. hold the hour to add text. press the hour to paint it the color. press the date number to add stickers and paint the date. press the month to paint the month. press the up/down arrows to change month. thanks for reading and/or downloading.
